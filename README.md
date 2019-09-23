@@ -11,6 +11,11 @@
 
 * 首先拥有一个域名
 
-* ping xxx.github.io 得到一个 ip 地址 绑定即可
+* ping xxx.github.io 得到一个 ip 地址 
+* 域名添加两条解析
+ 
+ ![](images/add.png)
+
+* 回到 `setting` 中的 `GitHub Pages`  找到 `Custom domain` 中填入你的域名即可
 
 * 多个的情况后续补充
